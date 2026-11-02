@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 const photos = [
  {src:'/images/ntate-milo-profile.png',alt:'Portrait of Ntate Milo',caption:'The man behind the name'},

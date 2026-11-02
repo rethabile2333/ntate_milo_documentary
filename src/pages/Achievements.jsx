@@ -1,3 +1,4 @@
+import React from 'react';
 import { Link } from 'react-router-dom';
 const items = [
  ['2009','The first steps','He became interested in music, helped advertise shows in Qacha’s Nek and learned songs by the artists he admired.'],

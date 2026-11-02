@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react';
 import { Mail, Phone, Send } from 'lucide-react';
 export default function Contact() {

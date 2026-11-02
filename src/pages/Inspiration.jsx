@@ -1,3 +1,4 @@
+import React from 'react';
 import { Link } from 'react-router-dom';
 const lessons = [
  ['01','Accept your starting point.','Ntate Milo remembers comparing his life with other children’s. He learned the importance of self-acceptance: acknowledge where you are without deciding that it is all you can ever be.'],
